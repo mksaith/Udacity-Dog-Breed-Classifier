@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Built a pipeline to process real-world, user-supplied images.  Given an image of a dog, algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. The Jupyter Notebook can be found [here](https://github.com/mksaith/Udacity-Dog-Breed-Classifier/blob/master/dog_app.ipynb).
+Built a pipeline to process real-world, user-supplied images.  Given an image of a dog, algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. The project can be found [here](https://github.com/mksaith/Udacity-Dog-Breed-Classifier/blob/master/dog_app.ipynb).
 
 ![Sample Output][image1]
 
