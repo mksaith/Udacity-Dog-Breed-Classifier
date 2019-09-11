@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Build a pipeline to process real-world, user-supplied images.  Given an image of a dog, algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. The Jupyter Notebook can be found [here](https://github.com/mksaith/Udacity-Dog-Breed-Classifier/blob/master/dog_app.ipynb).
+Built a pipeline to process real-world, user-supplied images.  Given an image of a dog, algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. The Jupyter Notebook can be found [here](https://github.com/mksaith/Udacity-Dog-Breed-Classifier/blob/master/dog_app.ipynb).
 
 ![Sample Output][image1]
 
@@ -19,7 +19,7 @@ Build a pipeline to process real-world, user-supplied images.  Given an image of
 ![Sample Bounding box][image4]
 
 ## Detect Dogs
-Build DogDetector using pre-trained VGG-16 model, to find the index corresponding to the ImageNet class for a given image.
+Built DogDetector using pre-trained VGG-16 model, to find the index corresponding to the ImageNet class for a given image.
 
 ## CNN from scratch to Classify Dog Breeds
 - Performed augmentation using **OpenCV** and **Torchvision**
