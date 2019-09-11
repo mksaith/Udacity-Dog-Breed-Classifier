@@ -31,7 +31,7 @@ Built DogDetector using pre-trained VGG-16 model, to find the index correspondin
   
 - **Learning rate:** Used [The Cyclical Learning Rate technique](http://teleported.in/posts/cyclic-learning-rate/), which improved the performance while training the model instead of fixed learning rate.
 
-- Used **Adam** optimizer which little performed better then **SGD**
+- Used **Adam** optimizer which performed better then **SGD**
 - Accuracy achieved up to 50% with 100 epochs
 
 ## CNN using Transfer Learning to Classify Dog Breeds
