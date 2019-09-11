@@ -13,8 +13,8 @@ Build a pipeline to process real-world, user-supplied images.  Given an image of
 ![Sample Output][image1]
 
 ## Detect Humans
-We use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images.
-We also get bounding box for each detected face.
+- Used OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images.
+- Get bounding box for each detected face.
 
 ![Sample Bounding box][image4]
 
